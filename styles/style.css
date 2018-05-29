@@ -1,0 +1,145 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Libre Baskerville', serif;
+  color: #3B3B3B;
+/*   background-color: #fafafa; */
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.yellow-bg {
+  background-color: #FCFF66;
+}
+
+h1 .yellow-bg {
+  padding: 6px 12px;
+}
+
+
+h2 {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+p {
+  line-height: 1.6;
+  color: #505050
+}
+
+a {
+  color: #FC3465;
+  text-decoration: none;
+}
+
+
+.content-container{
+  margin: 84px auto 60px auto;
+  max-width: 640px;
+}
+
+article{
+  margin: 30px 0 30px 0;
+}
+
+.work-grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+}
+
+.work-grid img{
+  width: 100%;
+}
+
+.project-name{
+  font-family: "Montserrat", sans-serif;
+  margin: 12px 0 0 0;
+}
+
+.project-role{
+  font-size: 14px;
+  margin: 6px 0 0 0;
+}
+
+@media only screen and (max-width: 640px) {
+    .content-container {
+        margin: 48px 12px 60px 12px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .work-grid{
+      grid-template-columns: 1fr;
+  }
+}
+
+.footer{
+  display: grid;
+  grid-template-columns: repeat(5,24px);
+  grid-gap: 12px;
+  margin: 48px 0 96px 0;
+}
+
+.footer a{
+  width: 24px;
+  height: 24px;
+  display: block;
+  background-size: 100%;
+}
+
+.linkedin{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Flinkedin-gray.png?1527130470062);
+}
+
+.linkedin:hover{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Flinkedin-color.png?1527130469889);
+}
+
+.github{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgh-gray.png?1527129894378);
+}
+.github:hover{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgh-color.png?1527130254830);
+}
+
+.gitlab{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgitlab-gray.png?1527130470599);
+}
+
+.gitlab:hover{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgitlab-color.png?1527130469352);
+}
+
+.instagram{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Finsta-gray.png?1527130469729);
+}
+
+.instagram:hover{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Finsta-color.png?1527130469528);
+}
+
+.spotify{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fspotify-gray.png?1527130470438);
+}
+
+.spotify:hover{
+  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fspotify-color.png?1527130470259);
+}
