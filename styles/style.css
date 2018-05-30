@@ -98,48 +98,37 @@ article{
   margin: 48px 0 96px 0;
 }
 
-.footer a{
+.footer svg{
   width: 24px;
   height: 24px;
   display: block;
   background-size: 100%;
 }
 
-.linkedin{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Flinkedin-gray.png?1527130470062);
+.footer-logo:hover #github{
+  fill: #171515;
 }
 
-.linkedin:hover{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Flinkedin-color.png?1527130469889);
+.footer-logo:hover #linkedin{
+  fill: #0071A1;
 }
 
-.github{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgh-gray.png?1527129894378);
-}
-.github:hover{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgh-color.png?1527130254830);
+.footer-logo:hover #git-lab-light{
+  fill: #FCA326
 }
 
-.gitlab{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgitlab-gray.png?1527130470599);
+.footer-logo:hover #git-lab-medium{
+  fill: #FC6D26
 }
 
-.gitlab:hover{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fgitlab-color.png?1527130469352);
+.footer-logo:hover #git-lab-dark{
+  fill: #E24329
 }
 
-.instagram{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Finsta-gray.png?1527130469729);
+.footer-logo:hover #instagram{
+  fill: #231F20;
 }
 
-.instagram:hover{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Finsta-color.png?1527130469528);
-}
-
-.spotify{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fspotify-gray.png?1527130470438);
-}
-
-.spotify:hover{
-  background-image: url(https://cdn.glitch.com/5ed45060-0e99-4d8d-a8b9-0de08d349137%2Fspotify-color.png?1527130470259);
+.footer-logo:hover #spotify{
+  fill: #1DB954
 }
