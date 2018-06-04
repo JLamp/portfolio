@@ -79,30 +79,36 @@ article{
   margin: 6px 0 0 0;
 }
 
-@media only screen and (max-width: 640px) {
-    .content-container {
-        margin: 48px 12px 60px 12px;
-    }
-}
-
-@media only screen and (max-width: 540px) {
-    .work-grid{
-      grid-template-columns: 1fr;
-  }
-}
-
 .footer{
+  margin: 48px 0 96px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logos{
   display: grid;
   grid-template-columns: repeat(5,24px);
   grid-gap: 12px;
-  margin: 48px 0 96px 0;
 }
 
-.footer svg{
+.footer-logos svg{
   width: 24px;
   height: 24px;
   display: block;
   background-size: 100%;
+}
+
+.footer-contact a{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  color: #3B3B3B;
+  text-decoration: none;
+}
+
+.footer-contact a:hover{
+  text-decoration: underline;
+  text-decoration-color: #FC3465;
 }
 
 .footer-logo:hover #github{
@@ -131,4 +137,22 @@ article{
 
 .footer-logo:hover #spotify{
   fill: #1DB954
+}
+
+@media only screen and (max-width: 640px) {
+    .content-container {
+        margin: 48px 12px 60px 12px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .work-grid{
+      grid-template-columns: 1fr;
+  }
+  .footer{
+    flex-direction: column;
+  }
+  .footer-contact{
+    margin-top: 12px;
+  }
 }
