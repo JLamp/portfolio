@@ -1,31 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Dafna's Zebra Podcast</title>
-    <googleplay:author>Dafna</googleplay:author>
-    <description>A pet-owner's guide to the popular striped equine.</description>
-    <googleplay:image href="https://ssl-static.libsyn.com/p/assets/7/1/7/3/71738bfdcfcd68c0/brandwagon-podcast-main02.jpg"/>
-    <language>en-us</language>
-    <link>https://wistia.com</link>
-    <item>
-	<title>Brian Halligan, CEO of HubSpot</title>
-	<itunes:title>Brian Halligan, CEO of HubSpot</itunes:title>
-	<pubDate>Thu, 31 Oct 2019 16:29:59 +0000</pubDate>
-	<guid isPermaLink="false"><![CDATA[3442b9263d82425eb7d331a394323360]]></guid>
-	<link><![CDATA[https://brandwagon.libsyn.com/brian-halligan-ceo-of-hubspot]]></link>
-	<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/0/6/f/706f341bd3a1c39c/10_brandwagon-brian.png" />
-	<enclosure length="47856176" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E10_Halligan_master.mp3?dest-id=1446020" />
-	<itunes:duration>32:54</itunes:duration>
-	<itunes:explicit>no</itunes:explicit>
-	<itunes:keywords />
-	<itunes:subtitle><![CDATA[If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian...]]></itunes:subtitle>
-	<itunes:summary>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </itunes:summary>
-	<itunes:season>1</itunes:season>
-	<itunes:episode>10</itunes:episode>
-	<itunes:episodeType>full</itunes:episodeType>
-	<itunes:author>Wistia Studios</itunes:author>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://brandwagon.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Brandwagon Interviews</title>
+		<pubDate>Thu, 31 Oct 2019 16:29:59 +0000</pubDate>
+		<lastBuildDate>Thu, 28 May 2020 18:12:27 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://wistia.com/series/brandwagon</link>
+		<language>en</language>
+		<copyright><![CDATA[2019]]></copyright>
+		<docs>https://wistia.com/series/brandwagon</docs>
+		<managingEditor>podcasts@wistia.com (podcasts@wistia.com)</managingEditor>
+		<itunes:summary><![CDATA[From tactics to taglines, Wistia’s CEO, Chris Savage, chats marketing with the brains behind successful brands. Get a peek under the hood of their best campaigns, and listen to the full, un-cut interviews from the Wistia show: Brandwagon.]]></itunes:summary>
+		<image>
+			<url>https://ssl-static.libsyn.com/p/assets/7/1/7/3/71738bfdcfcd68c0/brandwagon-podcast-main02.jpg</url>
+			<title>The Brandwagon Interviews</title>
+			<link><![CDATA[https://wistia.com/series/brandwagon]]></link>
+		</image>
+		<itunes:author>Wistia Studios</itunes:author>
+		<itunes:category text="Business">
+			<itunes:category text="Marketing"/>
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Entrepreneurship"/>
+		</itunes:category>
+		<itunes:category text="Business"></itunes:category>
+		<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/1/7/3/71738bfdcfcd68c0/brandwagon-podcast-main02.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Wistia]]></itunes:name>
+			<itunes:email>podcasts@wistia.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[From tactics to taglines, Wistia’s CEO, Chris Savage, chats marketing with the brains behind successful brands. Get a peek under the hood of their best campaigns, and listen to the full, un-cut interviews from the Wistia show: Brandwagon.]]></description>
+		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+			<itunes:new-feed-url>https://brandwagon.libsyn.com/rss</itunes:new-feed-url>
+		
+
+
+		<item>
+			<title>Brian Halligan, CEO of HubSpot</title>
+			<itunes:title>Brian Halligan, CEO of HubSpot</itunes:title>
+			<pubDate>Thu, 31 Oct 2019 16:29:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3442b9263d82425eb7d331a394323360]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/brian-halligan-ceo-of-hubspot]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/0/6/f/706f341bd3a1c39c/10_brandwagon-brian.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of</span> <em><span style="font-weight: 400;">the</span></em> <span style= "font-weight: 400;">resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </span></p>]]></description>
+			<content:encoded><![CDATA[<p>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of <em>the</em> resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </p>]]></content:encoded>
+			<enclosure length="47856176" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E10_Halligan_master.mp3?dest-id=1446020" />
+			<itunes:duration>32:54</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian...]]></itunes:subtitle>
+			<itunes:summary>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Justine Jordan, Head of Marketing at Help Scout</title>
+			<itunes:title>Justine Jordan, Head of Marketing at Help Scout</itunes:title>
+			<pubDate>Thu, 24 Oct 2019 13:49:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4ebb3ca5452349abbbdafa1693a15198]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/justine-jordan-head-of-marketing-at-help-scout]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/f/4/0/f/f40f75a3c716a51e/09_brandwagon-justine-2.jpg" />
+			<description><![CDATA[<p><span style="font-weight: 400;">When Justine Jordan started at Litmus, a leading email marketing company, she was one of just eight employees and a self-described "designer, masquerading as a marketer." She saw Litmus grow to over 100 employees, and today she's the head of marketing at Help Scout, a software company that focuses on helping you delight your customers. Both Litmus and Help Scout are brands defined, in part, by exceptional design. On this episode of Brandwagon, Justine shares how her design background and design thinking has informed her career in marketing. Plus, she talks about remote teams, how to have super-effective internal communications, and the challenges of creating your brand's first show.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>When Justine Jordan started at Litmus, a leading email marketing company, she was one of just eight employees and a self-described "designer, masquerading as a marketer." She saw Litmus grow to over 100 employees, and today she's the head of marketing at Help Scout, a software company that focuses on helping you delight your customers. Both Litmus and Help Scout are brands defined, in part, by exceptional design. On this episode of Brandwagon, Justine shares how her design background and design thinking has informed her career in marketing. Plus, she talks about remote teams, how to have super-effective internal communications, and the challenges of creating your brand's first show.</p>]]></content:encoded>
+			<enclosure length="64449364" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E09_Jordan_master.mp3?dest-id=1446020" />
+			<itunes:duration>43:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[When Justine Jordan started at Litmus, a leading email marketing company, she was one of just eight employees and a self-described "designer, masquerading as a marketer." She saw Litmus grow to over 100 employees, and today she's the head of marketing...]]></itunes:subtitle>
+			<itunes:summary>Justine Jordan is the head of marketing at Help Scout, a software company that focuses on helping you delight your customers. It's a brand defined, in part, by exceptional design. On this episode of Brandwagon, Justine shares how her design background and design thinking has informed her career in marketing. Plus, she talks about remote teams, how to have super-effective internal communications, and the challenges of creating your brand's first show.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Rand Fishkin, CEO and Co-Founder of SparkToro</title>
+			<itunes:title>Rand Fishkin, CEO and Co-Founder of SparkToro</itunes:title>
+			<pubDate>Thu, 17 Oct 2019 11:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1316cf8c2cd84e53a52806e0674cc3bd]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/rand-fishkin-ceo-and-co-founder-of-sparktoro]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/d/8/4/d/d84d67d6bce6f60f/brandwagon_podcast-ep08.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">Rand Fishkin is a SEO expert, a co-founder of Moz, an author, and is the CEO and co-founder of SparkToro: a new software company that makes it easier for you to find and connect with your audience. In this conversation, Savage and Rand talk about how Rand built a brand around his iconic "White Board Fridays" at Moz. They also talk about how it's more important than ever to make deep connections with your audience, because Google isn't just a search engine anymore—it's one of your competitors. Plus, Rand shares his thoughts on how to have a successful launch, how to convince your boss to improve your content strategy, and how investing in one marketing tactic over the long term is more valuable than marketing through every platform available.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Rand Fishkin is a SEO expert, a co-founder of Moz, an author, and is the CEO and co-founder of SparkToro: a new software company that makes it easier for you to find and connect with your audience. In this conversation, Savage and Rand talk about how Rand built a brand around his iconic "White Board Fridays" at Moz. They also talk about how it's more important than ever to make deep connections with your audience, because Google isn't just a search engine anymore—it's one of your competitors. Plus, Rand shares his thoughts on how to have a successful launch, how to convince your boss to improve your content strategy, and how investing in one marketing tactic over the long term is more valuable than marketing through every platform available.</p>]]></content:encoded>
+			<enclosure length="73946982" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E08_Fishkin_master.mp3?dest-id=1446020" />
+			<itunes:duration>01:01:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Rand Fishkin is a SEO expert, a co-founder of Moz, an author, and is the CEO and co-founder of SparkToro: a new software company that makes it easier for you to find and connect with your audience. In this conversation, Savage and Rand talk about how...]]></itunes:subtitle>
+			<itunes:summary>Rand Fishkin is a SEO expert, a co-founder of Moz, and the CEO and co-founder of SparkToro: a platform to help you find and connect with your audience. Savage and Rand talk about Rand's iconic "White Board Fridays" and cover why Rand has some beef with Google. Plus, Rand talks about how to have a successful launch, how to convince your boss to improve your content strategy, and how investing in one marketing tactic over the long term is more valuable than marketing through every platform available.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Patrick Campbell, CEO of ProfitWell</title>
+			<itunes:title>Patrick Campbell, CEO of ProfitWell</itunes:title>
+			<pubDate>Thu, 26 Sep 2019 13:11:27 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[393cd11116b1468a8d0919ced47a1cfb]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/patrick-campbell-ceo-of-profitwell]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/8/f/3/e/8f3edd086fe58df0/brandwagon_podcast_episode_7.png" />
+			<description><![CDATA[<p>We chat with Patrick Campbell, CEO of ProfitWell, a B2B SaaS company that's shifting its focus from traditional content marketing methods to making branded, binge-worthy shows to grow their brand.</p>]]></description>
+			<content:encoded><![CDATA[<p>We chat with Patrick Campbell, CEO of ProfitWell, a B2B SaaS company that's shifting its focus from traditional content marketing methods to making branded, binge-worthy shows to grow their brand.</p>]]></content:encoded>
+			<enclosure length="52716416" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/Brandwagon_ep7_master.mp3?dest-id=1446020" />
+			<itunes:duration>54:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[We chat with Patrick Campbell, CEO of ProfitWell, a B2B SaaS company that's shifting its focus from traditional content marketing methods to making branded, binge-worthy shows to grow their brand.]]></itunes:subtitle>
+			<itunes:summary>We chat with Patrick Campbell, CEO of ProfitWell, a B2B SaaS company that's shifting its focus from traditional content marketing methods to making branded, binge-worthy shows to grow their brand.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Brendan Gaul, Global Chief Content Officer, UM Worldwide</title>
+			<itunes:title>Brendan Gaul, Global Chief Content Officer, UM Worldwide</itunes:title>
+			<pubDate>Thu, 19 Sep 2019 14:05:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0c03963e1d86461c88f836dd1482482b]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/brendan-gaul-global-chief-content-officer-um-worldwide]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/d/4/a/c/d4ac489a13bba586/brandwagon_podcast_episode_6.png" />
+			<description><![CDATA[<p><span style="font-weight: 400;">UM Studios works with the biggest B2C brands in the world, including Coca-Cola, Amex, Hershey's and BMW. Brendan Gaul, Global Chief Content Officer at UM, hops on the Brandwagon to talk about the agency’s recent award-winning work: a feature-length documentary for Johnson and Johnson. Gaul talks about how brands are turning to original content as traditional advertising platforms disappear, and how the big brands of the future won't just have purpose, they'll have a point of view.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>UM Studios works with the biggest B2C brands in the world, including Coca-Cola, Amex, Hershey's and BMW. Brendan Gaul, Global Chief Content Officer at UM, hops on the Brandwagon to talk about the agency’s recent award-winning work: a feature-length documentary for Johnson and Johnson. Gaul talks about how brands are turning to original content as traditional advertising platforms disappear, and how the big brands of the future won't just have purpose, they'll have a point of view.</p>]]></content:encoded>
+			<enclosure length="59390720" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E06_Gaul_master.mp3?dest-id=1446020" />
+			<itunes:duration>01:00:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[UM Studios works with the biggest B2C brands in the world, including Coca-Cola, Amex, Hershey's and BMW. Brendan Gaul, Global Chief Content Officer at UM, hops on the Brandwagon to talk about the agency’s recent award-winning work: a feature-length...]]></itunes:subtitle>
+			<itunes:summary>UM Studios works with the biggest B2C brands in the world, including Coca-Cola, Amex, Hershey's and BMW. Brendan Gaul, Global Chief Content Officer at UM, hops on the Brandwagon to talk about the agency’s recent award-winning work: a feature-length documentary for Johnson and Johnson. Gaul talks about how brands are turning to original content as traditional advertising platforms disappear, and how the big brands of the future won't just have purpose, they'll have a point of view.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Lauren Fleshman, Co-Founder of Picky Bars</title>
+			<itunes:title>Lauren Fleshman, Co-Founder of Picky Bars</itunes:title>
+			<pubDate>Thu, 12 Sep 2019 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1b1311aa57f74d6eb2cae1a28f7760b4]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/lauren-fleshman-co-founder-of-picky-bars]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/6/6/a/f/66aff6c9b51dab95/05_brandwagon-lauren.png" />
+			<description><![CDATA[<p>Lauren Fleshman is one of the fastest women in US history. A highly decorated athlete and 2x US champion, she had a storied career as a professional runner. Today, she's the co-founder of Picky Bars: a real-food company that makes energy bars, oatmeals and granolas to fuel active lifestyles. In this episode of Brandwagon, Savage and Fleshman talk about what it's like to be a marketing asset for brands, how to identify and market your values, and how everyone's story can be exceptional if you're an exceptional storyteller.</p>]]></description>
+			<content:encoded><![CDATA[<p>Lauren Fleshman is one of the fastest women in US history. A highly decorated athlete and 2x US champion, she had a storied career as a professional runner. Today, she's the co-founder of Picky Bars: a real-food company that makes energy bars, oatmeals and granolas to fuel active lifestyles. In this episode of Brandwagon, Savage and Fleshman talk about what it's like to be a marketing asset for brands, how to identify and market your values, and how everyone's story can be exceptional if you're an exceptional storyteller.</p>]]></content:encoded>
+			<enclosure length="70537216" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E05_Fleshman_master.mp3?dest-id=1446020" />
+			<itunes:duration>48:37</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Lauren Fleshman is one of the fastest women in US history. A highly decorated athlete and 2x US champion, she had a storied career as a professional runner. Today, she's the co-founder of Picky Bars: a real-food company that makes energy bars,...]]></itunes:subtitle>
+			<itunes:summary>Lauren Fleshman is one of the fastest women in US history. A highly decorated athlete and 2x US champion, she had a storied career as a professional runner. Today, she's the co-founder of Picky Bars: a real-food company that makes energy bars to fuel active lifestyles. In this episode of Brandwagon, Savage and Fleshman talk about what it's like to be a marketing asset for brands, how to identify and market your values, and how everyone's story can be exceptional if you're an exceptional storyteller.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Veronica Parker-Hahn, SVP of Growth and Innovation at Effie Worldwide</title>
+			<itunes:title>Veronica Parker-Hahn, SVP of Growth and Innovation at Effie Worldwide</itunes:title>
+			<pubDate>Thu, 29 Aug 2019 14:23:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6f39f5e2b01649bebfba294fa6c21067]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/veronica-parker-hahn-svp-of-growth-and-innovation-at-effie-worldwide]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/e/9/5/7e95b7ecace2dc13/04_brandwagon-podcast_veronica-effie.png" />
+			<description><![CDATA[<p>With over 50 years of marketing data, Veronica Parker-Hahn and her team at Effie have always found one key thing to be true: the tightest story wins. Plus, hear about about Veronica's experience working with huge brands, the importance of having a solid strategy, and the cyclical nature of marketing trends.</p>]]></description>
+			<content:encoded><![CDATA[<p>With over 50 years of marketing data, Veronica Parker-Hahn and her team at Effie have always found one key thing to be true: the tightest story wins. Plus, hear about about Veronica's experience working with huge brands, the importance of having a solid strategy, and the cyclical nature of marketing trends.</p>]]></content:encoded>
+			<enclosure length="88449664" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E04_Parker-Hahn_master.mp3?dest-id=1446020" />
+			<itunes:duration>01:00:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[With over 50 years of marketing data, Veronica Parker-Hahn and her team at Effie have always found one key thing to be true: the tightest story wins. Plus, hear about about Veronica's experience working with huge brands, the importance of having...]]></itunes:subtitle>
+			<itunes:summary>With over 50 years of marketing data, Veronica Parker-Hahn and her team at Effie have always found one key thing to be true: the tightest story wins. Plus, hear about about Veronica's experience working with huge brands, the importance of having a solid strategy, and the cyclical nature of marketing trends.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Dan Kenary, CEO and Co-Founder of Harpoon</title>
+			<itunes:title>Dan Kenary, CEO and Co-Founder of Harpoon</itunes:title>
+			<pubDate>Thu, 22 Aug 2019 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fb6308bd0c7c4b1a913a4513840c3da9]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/dan-kenary-ceo-and-co-founder-of-harpoon]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/1/9/6/a/196a1b83019759e9/brandwagon-podcast_dan-harpoon.jpg" />
+			<description><![CDATA[<p>Dan Kenary, CEO and Co-Founder of Harpoon Brewery, shares why taking risks is an essential part of building a brand. Plus, see how this risky mindset has helped Harpoon grow from one Boston-based brewery to a house of five brands.</p>]]></description>
+			<content:encoded><![CDATA[<p>Dan Kenary, CEO and Co-Founder of Harpoon Brewery, shares why taking risks is an essential part of building a brand. Plus, see how this risky mindset has helped Harpoon grow from one Boston-based brewery to a house of five brands.</p>]]></content:encoded>
+			<enclosure length="69090496" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E03_Kenary_master.mp3?dest-id=1446020" />
+			<itunes:duration>46:42</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Dan Kenary, CEO and Co-Founder of Harpoon Brewery, shares why taking risks is an essential part of building a brand. Plus, see how this risky mindset has helped Harpoon grow from one Boston-based brewery to a house of five brands.]]></itunes:subtitle>
+			<itunes:summary>Dan Kenary, CEO and Co-Founder of Harpoon Brewery, shares why taking risks is an essential part of building a brand. Plus, see how this risky mindset has helped Harpoon grow from one Boston-based brewery to a house of five brands.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Nancy Dussault Smith, CMO of Hydrow</title>
+			<itunes:title>Nancy Dussault Smith, CMO of Hydrow</itunes:title>
+			<pubDate>Thu, 15 Aug 2019 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6cc2cfd548af43d48110deb834392a54]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/nancy-dussault-smith-cmo-of-hydrow]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/e/4/1/4/e414321c0377d543/brandwagon-podcast_nancy-dussault-smith.jpg" />
+			<description><![CDATA[<p>On this episode of <em>Brandwagon</em>, Nancy Dussault Smith, CMO of Hydrow, shares the importance of taking a stand on brand, and asks "why be vanilla when you could be rocky road?" Plus, she offers advice about setting aside budget for experimentation, and discusses how to recover if your business starts to lose traction.</p>]]></description>
+			<content:encoded><![CDATA[<p>On this episode of <em>Brandwagon</em>, Nancy Dussault Smith, CMO of Hydrow, shares the importance of taking a stand on brand, and asks "why be vanilla when you could be rocky road?" Plus, she offers advice about setting aside budget for experimentation, and discusses how to recover if your business starts to lose traction.</p>]]></content:encoded>
+			<enclosure length="74598464" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E02_Dussault-Smith_master_v2.mp3?dest-id=1446020" />
+			<itunes:duration>50:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[On this episode of Brandwagon, Nancy Dussault Smith, CMO of Hydrow, shares the importance of taking a stand on brand, and asks "why be vanilla when you could be rocky road?" Plus, she offers advice about setting aside budget for experimentation, and...]]></itunes:subtitle>
+			<itunes:summary>On this episode of Brandwagon, Nancy Dussault Smith, CMO of Hydrow, shares the importance of taking a stand on brand, and asks "why be vanilla when you could be rocky road?" Plus, she offers advice about setting aside budget for experimentation, and discusses how to recover if your business starts to lose traction.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+		<item>
+			<title>Mark DiCristina of Mailchimp</title>
+			<itunes:title>Mark DiCristina of Mailchimp</itunes:title>
+			<pubDate>Thu, 08 Aug 2019 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1030529c0359418fa3668c1d83081b73]]></guid>
+			<link><![CDATA[https://brandwagon.libsyn.com/mark-dicristina-of-mailchimp-1]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/8/c/9/0/8c908bf8cb3d8735/brandwagon-podcast_mark_1.png" />
+			<description><![CDATA[<p>If you’ve been hanging around the Internet, you might’ve seen that Mailchimp has been releasing short-form video series, films, and podcasts out of their own content studio, <a class="markdown" href="https://mailchimp.com/presents/" target="_blank" rel= "noopener">Mailchimp Presents</a>. Super cool, right? We’ve been big fans of their brand here at Wistia for a long time, and I’m pumped that Mark came to our studio to share his insights for our very first episode. Throughout the interview, you’ll learn more about Mailchimp’s decision to invest in creative content over brand advertising and what that looks like for their business.</p>]]></description>
+			<content:encoded><![CDATA[<p>If you’ve been hanging around the Internet, you might’ve seen that Mailchimp has been releasing short-form video series, films, and podcasts out of their own content studio, <a class="markdown" href="https://mailchimp.com/presents/" target="_blank" rel= "noopener">Mailchimp Presents</a>. Super cool, right? We’ve been big fans of their brand here at Wistia for a long time, and I’m pumped that Mark came to our studio to share his insights for our very first episode. Throughout the interview, you’ll learn more about Mailchimp’s decision to invest in creative content over brand advertising and what that looks like for their business.</p>]]></content:encoded>
+			<enclosure length="86983296" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E01_DiCristina_master.mp3?dest-id=1446020" />
+			<itunes:duration>59:50</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[If you’ve been hanging around the Internet, you might’ve seen that Mailchimp has been releasing short-form video series, films, and podcasts out of their own content studio, . Super cool, right? We’ve been big fans of their brand here at Wistia...]]></itunes:subtitle>
+			<itunes:summary>If you’ve been hanging around the Internet, you might’ve seen that Mailchimp has been releasing video series, films, and podcasts out of their own content studio, Mailchimp Presents. Super cool, right? Mark DiCristina, head of brand for Mailchimp, shares his insights for our very first episode. Throughout the interview, you’ll learn more about Mailchimp’s decision to invest in creative content over brand advertising and what that looks like for their business.</itunes:summary>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Wistia Studios</itunes:author>
+		</item>
+	</channel>
 </rss>
