@@ -10,24 +10,23 @@
     <language>en-us</language>
     <link>https://www.example.com/podcasts/dafnas-zebras/</link>
     <item>
-			<title>Brian Halligan, CEO of HubSpot</title>
-			<itunes:title>Brian Halligan, CEO of HubSpot</itunes:title>
-			<pubDate>Thu, 31 Oct 2019 16:29:59 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[3442b9263d82425eb7d331a394323360]]></guid>
-			<link><![CDATA[https://brandwagon.libsyn.com/brian-halligan-ceo-of-hubspot]]></link>
-			<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/0/6/f/706f341bd3a1c39c/10_brandwagon-brian.png" />
-			<description><![CDATA[<p><span style="font-weight: 400;">If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of</span> <em><span style="font-weight: 400;">the</span></em> <span style= "font-weight: 400;">resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </span></p>]]></description>
-			<content:encoded><![CDATA[<p>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of <em>the</em> resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </p>]]></content:encoded>
-			<enclosure length="47856176" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E10_Halligan_master.mp3?dest-id=1446020" />
-			<itunes:duration>32:54</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords />
-			<itunes:subtitle><![CDATA[If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian...]]></itunes:subtitle>
-			<itunes:summary>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </itunes:summary>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>10</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>Wistia Studios</itunes:author>
-		</item>
+	<title>Brian Halligan, CEO of HubSpot</title>
+	<itunes:title>Brian Halligan, CEO of HubSpot</itunes:title>
+	<pubDate>Thu, 31 Oct 2019 16:29:59 +0000</pubDate>
+	<guid isPermaLink="false"><![CDATA[3442b9263d82425eb7d331a394323360]]></guid>
+	<link><![CDATA[https://brandwagon.libsyn.com/brian-halligan-ceo-of-hubspot]]></link>
+	<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/0/6/f/706f341bd3a1c39c/10_brandwagon-brian.png" />
+	<content:encoded><![CDATA[<p>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of <em>the</em> resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </p>]]></content:encoded>
+	<enclosure length="47856176" type="audio/mpeg" url="https://traffic.libsyn.com/secure/brandwagon/E10_Halligan_master.mp3?dest-id=1446020" />
+	<itunes:duration>32:54</itunes:duration>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:keywords />
+	<itunes:subtitle><![CDATA[If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian...]]></itunes:subtitle>
+	<itunes:summary>If you’ve looked to the internet for an answer to a marketing question, chances are you’ve come across a HubSpot article. After all, HubSpot is one of the resources for modern marketers. In this episode of Brandwagon, Chris asks HubSpot CEO, Brian Halligan, whether they became experts on purpose or if it happened over time. They also talk about how brand experience is more important today than ever before, and Chris gets a lesson in marketing from Brian's favorite band, The Grateful Dead. </itunes:summary>
+	<itunes:season>1</itunes:season>
+	<itunes:episode>10</itunes:episode>
+	<itunes:episodeType>full</itunes:episodeType>
+	<itunes:author>Wistia Studios</itunes:author>
+    </item>
   </channel>
 </rss>
